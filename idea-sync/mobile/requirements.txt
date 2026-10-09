@@ -1,0 +1,9 @@
+# idea-sync mobile client dependencies.
+# This file did not exist; the venv was a dangling /opt/shared symlink.
+# Recorded during spec 152 recovery.
+
+# Kivy UI framework -- android_app.py
+kivy>=2.3.0
+
+# HTTP client -- android_app.py and client.py
+requests>=2.32.0
